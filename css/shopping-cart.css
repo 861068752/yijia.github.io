@@ -1,0 +1,509 @@
+*{
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+.cart-home-nav{
+   width: 1582px;
+  height: 82px;
+  float: left;
+  background: antiquewhite;
+  
+}
+.cart-home{
+  clear: both;
+  width: 1582px;
+  height: 1871px;
+  background:#efefef;
+  margin: 0 auto;
+  
+}
+.clearfix:after{
+  content: '.';
+  display: block;
+  clear: both;
+  height: 0;
+  overflow: hidden;
+  visibility: hidden;
+}
+.cart-home-t{
+  float: left;
+  width: 1582px;
+  height: 242px;
+  /*background: red;*/
+}
+.cart-home-c{
+  float: left;
+  width: 1582px;
+  height: 658px;
+  background:white;
+
+}
+.cart-home-c2{
+  width: 1582px;
+  height: 600px;
+  float: left;
+  background: black;
+  
+  text-align: center;
+}
+.cart-home-t-t{
+  float: left;
+  width: 1582px;
+  height: 121px;
+  background: bisque;
+  text-align:center;
+  line-height: 121px;
+ 
+  
+  
+}
+
+.cart-home-t-b{
+  float: left;
+  width: 1582px;
+  height: 121px;
+  background: bisque;
+  text-align:center;
+  line-height: 121px;
+  
+  
+}
+
+.cart-home-t-t ul{
+  
+  width: 1582px;
+  height: 121px;
+  text-align:center;
+  line-height: 121px;
+}
+.cart-home-t-t ul li{
+  width: 527px;
+  height: 121px;
+  text-align:center;
+  line-height: 121px;
+  float: left;
+  
+}
+.cart-home-t-b ul{
+   width: 1582px;
+  height: 121px;
+  text-align: center;
+  line-height: 121px;
+  
+  
+}
+.cart-home-t-b ul span{
+  float: left;
+  width: 527px;
+  height: 121px;
+ text-align: center;
+ line-height: 121px;
+  
+  
+}
+.cart-home-t-b ul span li{
+  
+  width: 10px;
+  height: 10px;
+  border-radius:50% ;
+  background: red;
+
+  
+}
+.m-263{
+  margin-left: 263px;
+}
+.cart-home-carousel{
+  width: 1202px;
+  height: 600px;
+ /* background: brown;*/
+  margin: 0 auto;
+  
+  
+  
+  
+}
+.cart-list{
+  width: 1202px;
+  height: 651px;
+ /* background: cadetblue;*/
+  margin: 0 auto;
+  border-bottom: 1px solid gainsboro;
+  
+  
+  
+}
+.cart-list-t{
+  width: 1202px;
+  height: 50px;
+  text-align: center;
+  line-height: 50px;
+  background: black;
+  opacity: 0.8;
+  float: left;
+  
+}
+.cart-list-t-l{
+  float: left;
+  width: 200px;
+  height: 50px;
+  text-align: center;
+  line-height: 50px;
+  
+  
+}
+.cart-list-t-l span{
+  color: white;
+  width: 200px;
+  height: 50px;
+  text-align: center;
+  line-height: 50px;
+  
+  
+}
+.cart-list-t-r{
+  width: 1002px;
+  height: 50px;
+  line-height: 50px;
+  text-align: center;
+  float: left;
+  
+  
+}
+.cart-list-t-r span{
+  width: 150px;
+  height: 50px;
+  line-height: 50px;
+  text-align: center;
+  float: left;
+  color: white;
+  
+}
+.m-402{
+  margin-left: 402px;
+}
+.cart-list-c-t{
+  width: 1202px;
+  height: 217px;
+  float: left;
+  /*background: dodgerblue;*/
+ border-bottom: 1px solid gainsboro;
+  
+  
+}
+.cart-list-c-c{
+  float: left;
+  width: 1202px;
+  height: 210px;
+  /*background: greenyellow;*/
+  
+  
+}
+.mt-10{
+  margin-top: 10px;
+}
+.cart-list-c-b{
+  float: left;
+  width: 1202px;
+  height: 178px;
+  background:url(../img/一加官网2.png)no-repeat;
+  margin-top: 2px;
+  
+  
+  
+  
+}
+.cart-list-c-t-l{
+  width: 200px;
+  height: 218px;
+  float: left;
+ background:url(../img/img-product.png) no-repeat;  
+ overflow: hidden;
+ 
+  
+  
+}
+.cart-list-c-t-r{
+  width: 1002px;
+  height: 218px;
+  float: left;
+ /* background: darkolivegreen;  */
+  
+  
+}
+.cart-list-c-t-r-t{
+  width: 1002px;
+  height: 131px;
+  float: left;
+ /* background: firebrick;*/
+  /*text-align: center;
+  line-height: 132px;*/
+  border-bottom: 1px solid gainsboro;
+  
+  
+}
+.math-l{
+  width: 400px;
+  height: 131px;
+  float: left;
+ /* background: firebrick;*/
+  
+  line-height: 132px;
+  
+  
+  
+}
+.math-l1,.math-l2,.math-r1,.math-r2{
+  width: 150px;
+  height: 131px;
+  float: left;
+/*  background: firebrick;*/
+  text-align: center;
+  line-height: 131px;
+  
+  
+  
+}
+.cart-list-c-t-r-b{
+  width: 1002px;
+  height: 86px;
+  float: left;
+ /* background: gray;*/
+ 
+  line-height: 43px;
+  
+  
+  
+}
+.m-20{
+  margin-left: 20px;
+}
+.cart-list-c-c-l{
+  width: 700px;
+  height: 210px;
+  float: left;
+  /*background: blue;*/
+  /*text-align: center;
+  line-height: 210px;*/
+  
+  
+  
+  
+}
+.cart-list-c-c-r{
+  width: 502px;
+  height: 210px;
+  float: left;
+
+  text-align: center;
+  
+  
+  
+  
+}
+.cart-list-c-c-r-t{
+  width: 416px;
+  height: 104px;
+  float: left;
+ /* background: chocolate;*/
+  margin-left: 43px;
+  border-bottom: 1px solid gainsboro;
+ 
+  
+  
+}
+.cart-list-c-c-r-b{
+   width: 416px;
+  height: 105px;
+  float: left;
+/*  background: blueviolet;*/
+   margin-left: 43px;
+  
+  
+}
+.cart-list-c-c-r-b-b{
+  width: 416px;
+  height: 48px;
+  float: left;
+ /* background: red;*/
+}
+.cart-list-c-c-r-b-t{
+  width: 416px;
+  height: 57px;
+  float: left;
+ /* background: lightblue;*/
+  
+  
+  
+}
+.cart-list-c-c-r-b-b-l{
+  width: 202px;
+  height: 47px;
+  border: 1px solid black;
+  float: left;
+  text-align: center;
+  line-height: 47px;
+  margin-left: 5px;
+  
+  
+}
+.cart-list-c-c-r-b-b-r{
+  width: 202px;
+  height: 47px;
+  border: 1px solid black;
+  float: left;
+  text-align: center;
+  line-height: 47px;
+  margin-left: 2px;
+  background: red;
+  
+  
+}
+.cart-list-c-c-r-b-t-l{
+    height: 57px;
+    width: 100px;
+    float: left;
+    text-align: center;
+    line-height: 57px;
+    
+  
+  
+  
+}
+.cart-list-c-c-r-b-t-r{
+    height: 57px;
+    width: 316px;
+    float: left;
+    text-align: center;
+    line-height: 57px;
+  
+}
+.m-200{
+  
+  margin-left: 200px;
+  
+}
+.f-22{
+  font-family: "微软雅黑";
+  font-size: 22px;
+  color: black;
+  
+  
+}
+.cart-list-c-c-r-t-l{
+  width: 150px;
+  height: 57px;
+  float: left;
+  text-align: center;
+  line-height: 57px;
+  
+  
+  
+}
+.cart-list-c-c-r-t-r{
+  width: 266px;
+  height: 57px;
+  float: left;
+  text-align: center;
+  line-height: 57px;
+  
+  
+  
+  
+}
+.cart-list-c-c-r-b-t-l2{
+  width: 150px;
+  height: 57px;
+  float: left;
+ line-height: 57px;
+ 
+  
+}
+.cart-list-c-c-r-b-t-r2{
+  width: 266px;
+  height: 57px;
+  float: left;
+  line-height: 57px;
+  
+  
+  
+  
+}
+cart-list-c-c-l span{
+  width: 100px;
+  height: 100px;
+  text-align: center;
+  line-height: 100px;
+  font-family: "微软雅黑";
+  font-size: 16px;
+  color: black;
+  float: left;
+}
+.icon-cha{
+  font-size: 32px;
+  cursor: pointer;
+  
+}
+.count-box{
+  width: 99px;
+  height: 30px;
+  border: 1px solid black;
+  margin: 50px auto;
+  
+  
+  
+  
+}
+.num,.add{
+  width: 31px;
+  height: 28px;
+  text-align: center;
+  line-height: 28px;
+ /* border: 1px solid black;*/
+  float: left;
+ 
+}
+.reduce{
+  width: 31px;
+  height: 28px;
+  text-align: center;
+  line-height: 28px;
+ /* border: 1px solid black;*/
+  float: left;
+  
+}
+.icon-jia,.icon-jian{
+  font-size: 18px;
+  color: black;
+  cursor: pointer;
+  
+  
+  
+}
+#BuyNum_1{
+  width: 31px;
+  height: 28px;
+  text-align: center;
+  line-height: 28px;
+  border: 1px solid black;
+  float: left;
+ 
+  
+}
+ .carousel ul{
+            width: 1300px;
+        }
+       .carousel ul li{
+            list-style: none;
+            float: left;
+            width: 240px;
+            height: 460px;
+        }
+        .carousel{
+            width: 1202px;
+            height: 460px;
+            margin: 50px auto;
+            overflow: hidden;
+            border: 1px solid black;
+        }

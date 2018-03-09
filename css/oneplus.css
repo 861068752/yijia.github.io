@@ -1,0 +1,456 @@
+*{
+margin: 0;
+padding: 0;
+list-style: none;
+
+
+
+}
+#information{
+  position: fixed;
+  right: -100px;
+  top: -100px;
+  border: 1px solid black;
+  background: red;
+  display: block;
+  overflow: hidden;
+}
+a{
+  color: black;
+  text-decoration: none;
+  cursor: pointer;
+  
+  
+  
+}
+a:hover{
+  color: red;
+  
+  
+}
+.oneplus-home{
+   width: 1582px;
+   height: 3016px;
+   margin: 0 auto;
+ /*  background: brown;*/
+  
+
+
+
+}
+.oneplus-nav{
+  width: 1582px;
+  height: 82px;
+  float: left;
+  background: antiquewhite;
+  position: absolute;
+  border-bottom:4px solid grey;
+
+
+}
+.oneplus-content{
+   width: 1582px;
+   height: 890px;
+   float: left;
+   background:url(../img/img-home.jpg) no-repeat;
+
+}
+.oneplus-list{
+  width: 1582px;
+  height: 298px;
+  float: left;
+   background: goldenrod;
+
+
+
+}
+.oneplus-shot-on{
+  width: 1582px;
+  height: 600px;
+  float: left;
+   background:url(../img/img-shot-on.jpeg) no-repeat;
+
+
+
+}
+.oneplus-img-list{
+   width: 1582px;
+  height: 460px;
+  float: left;
+  /* background: hotpink;*/
+
+
+
+}
+.oneplus-after-sale{
+  width: 1582px;
+  height: 292px;
+  float: left;
+ 
+  
+
+
+
+
+}
+.oneplus-serve{
+   width: 1582px;
+  height: 310px;
+  float: left;
+  /* background: peru;*/
+
+
+
+}
+.oneplus-footer{
+   width: 1582px;
+   height: 86px;
+   float: left;
+   background:gainsboro;
+   line-height: 86px;
+
+
+
+}
+.nav-c{
+  width: 550px;
+  height: 82px;
+  float: left;
+ /* background: gold;*/
+  text-align: center;
+  line-height: 82px;
+  position: relative;
+
+
+}
+/*.nav-c ul{
+   list-style:none;position:absolute;top:0;left:0;
+}*/
+.nav-l{
+  width: 516px;
+  height: 82px;
+  float: left;
+  /*background: hotpink;*/
+  text-align: center;
+  line-height: 82px;
+
+
+}
+.nav-r{
+  width: 516px;
+  height: 82px;
+  float:left;
+ /* background: grey;*/
+text-align: center;
+  line-height: 82px;
+
+}
+.nav-c ul li a{
+  /*width: 110px;
+  height: 82px;*/
+  text-align: center;
+  line-height: 82px;
+  font-family: "微软雅黑";
+  font-size: 20px;
+ 
+  /*width: 110px;*/
+ /* margin-left: 50px;*/
+  cursor:pointer;
+ /*display: block;*/
+  
+  
+} 
+.nav-c ul li{
+           float: left;
+            width: 110px;
+            height:82px;
+            line-height:82px;
+            text-align:center;
+            cursor:pointer;
+  
+  
+}
+
+ .nav-c span{
+        position: absolute;
+        width: 110px;
+        height: 78px;
+        text-align:center;
+        left: 0;
+        top:0;
+        border-bottom: 4px solid red;
+        display: none;
+       
+      }
+      
+.nav-r ul li a{
+  
+  float:left;
+  width: 105px;
+  
+  
+  
+  
+}
+.nav-r .icon-gouwuche11,.nav-r .icon-sousuo1,.nav-r .icon-wodeepet{
+  
+  font-size: 26px;
+  
+  
+  
+}
+.m-100{
+  margin-left: 100px;
+  
+  
+}
+
+.oneplus-list ul li{
+  float: left;
+  position: relative;
+  
+  
+}
+.oneplus-list ul li a img{
+  width: 527.3px;
+  height: 298px;
+ 
+  
+  
+}
+.oneplus-list ul li a i{
+ 
+  position: absolute;
+  margin-top: 10px;
+  margin-left: 10px;
+  
+  
+}
+.white{
+  width: 1582px;
+  height: 95px;
+  float: left;
+  background: white;
+  
+}
+.list-content{
+  width: 1582px;
+  height: 243px;
+  float: left;
+  background: white;
+  
+  
+  
+  
+}
+.list-content ul li a{
+  width: 385px;
+  height: 243px;
+  float: left;
+  margin-left: 22px;
+  
+  
+  
+  
+}
+.list-footer{
+  width: 1582px;
+  height: 122px;
+  /*background: black;*/
+  float: left;
+  
+}
+.ml-192{
+  margin-left: 170px;
+}
+.mr-192{
+  margin-right: 192px;
+}
+.fl{
+  float: left;
+}
+.fr{
+  float: right;
+}
+.list-footer ul li{
+  width: 385px;
+  height: 122px;
+  float: left;
+  margin-left: 22px;
+  line-height: 122px;
+  text-align: center;
+ 
+  
+  
+}
+.list-footer .m-first{
+  margin-left:192px;
+}
+.serve-c1,.serve-c2,.serve-l{
+  width: 321px;
+  height: 310px;
+  float: left;
+ /* background: gold;*/
+  text-align: center;
+  
+  
+  
+}
+.serve-r{
+  width: 616px;
+  height: 310px;
+  /*background: green;*/
+  float: right;
+  text-align: center;
+  
+}
+.serve-c1 ul li ,.serve-c2 ul li ,.serve-l ul li {
+  height: 30px;
+  margin-top: 10px;
+  
+  
+  
+  
+}
+.t-50{
+  margin-top: 50px;
+}
+p{
+  
+  
+  font-family: "微软雅黑";
+  font-size: 22px;
+}
+.online-customer-service{
+    width: 214px;
+    height: 50px;
+    border: 1px solid black;
+    margin-left: 200px;
+    text-align: center;
+    line-height: 50px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  
+  
+}
+.after-sale-list{
+  width: 1206px;
+  height: 295px;
+  border-bottom: 1px solid gainsboro;
+  margin-left: 188px;
+  background: url(../img/一加官网.png) no-repeat;
+
+  
+  
+}
+.oneplus-footer .icon-zhongguo{
+  font-size: 30px;
+ 
+  
+}
+.oneplus-content-r{
+   width: 791px;
+   height: 890px;
+   float:  right;
+  
+  
+  
+  
+  
+}
+.oneplus-content-r .more{
+   width: 210px;
+   height: 80px;
+   text-align: center;
+   line-height: 80px;
+   border: 1px solid black;
+  
+   margin-left: 290px;
+   
+  
+}
+.writer-1,.writer-2,.writer-3,.writer-4{
+   width: 400px;
+   height: 50px;
+   
+   line-height: 50px;
+   text-align: center;
+   font-family: "微软雅黑";
+   font-size: 32px;
+   margin-left: 195px;
+   margin-top: 10px;
+  
+  
+}
+.t-320{
+  
+  margin-top: 320px;
+}
+.writer-4{
+  
+  font-family: "微软雅黑";
+  font-size: 22px;
+  
+}
+ .writer-3 .icon-renminbifuhao{
+  font-size: 32px;
+  
+  
+}
+.join{
+  width: 210px;
+  height: 80px;
+  border: 5px solid white;
+  text-align: center;
+  line-height: 80px;
+  margin-left: 686px;
+  margin-top: 60px;
+  position: relative;
+ 
+}
+.shont-on{
+  width: 500px;
+  height: 100px;
+  text-align: center;
+  line-height: 200px;
+  font-family: "微软雅黑";
+  font-size: 50px;
+  color: white;
+  margin-left: 541px;
+  margin-top: 60px;
+  
+}
+.join a{
+  color: white;
+  font-family: "微软雅黑";
+  font-size: 22px;
+  
+}
+.nav-c ul{
+  list-style: none;position: absolute;top: 0;left: 0;
+}
+/*.oneplus-content-r .more ul li{
+   width: 210px;
+   height: 80px;
+   text-align: center;
+   line-height: 80px;
+   border: 1px solid black;
+  
+   margin-left: 290px;
+   
+  
+}*/
+#red-shielding{
+  width: 210px;
+
+  height: 80px;
+  background: red;
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: none;
+}
+  
+  
+  
+ 
